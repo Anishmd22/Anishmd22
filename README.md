@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Anishmd22&theme=dark"/>
+<img src="https://streak-stats.demolab.com?user=Anishmd22&theme=dark"/>
 </p>
 
 <p align="center">
