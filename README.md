@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish MD </h1>
-<h3 align="center">A developer exploring Cloud, AI, and modern software engineering 🚀/h3>
+<h3 align="center">A developer exploring Cloud, AI, and modern software engineering 🚀 </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Anishmd22&label=Profile%20views&color=0e75b6&style=flat" />
