@@ -11,7 +11,7 @@
 
 - 👨‍💻 Currently building **Web-dev projects**
   
-- 💬 Ask me about ** Collaboration , Tech Support**
+- 💬 Ask me about **Collaboration , Tech Support**
   
 - 📫 Reach me at **anishmd2006vd22@gmail.com**
 
