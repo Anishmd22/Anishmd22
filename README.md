@@ -29,15 +29,15 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anishmd22&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Anishmd22&show_icons=true&theme=dark&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Anishmd22&theme=dark"/>
+  <img src="https://streak-stats.demolab.com?user=Anishmd22&theme=dark&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anishmd22&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anishmd22&layout=compact&theme=dark"/>
 </p>
 
 ---
