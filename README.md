@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 Currently building **Web-dev projects**
   
