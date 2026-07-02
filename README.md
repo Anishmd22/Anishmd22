@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend Development**
 
-- 👨‍💻 Currently building **Web-dev projects**
+- 👨‍💻 Currently building **Backend projects**
   
 - 💬 Ask me about **Collaboration , Tech Support**
   
